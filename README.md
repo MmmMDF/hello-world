@@ -1,3 +1,3 @@
 # hello-world
-Just another repository /n
+Just another repository
 Some info, some facts, no surpises
